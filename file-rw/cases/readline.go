@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-const README = "README.md"
+const README = "file-rw.md"
 
 // ReadLine 一次读取，按行打印文件内容
 func ReadLine1() {
